@@ -1,0 +1,48 @@
+
+# Build output
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.rsuser
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# NuGet packages
+*.nupkg
+packages/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Publish output
+publish/
+artifacts/
+
+# Test results
+TestResults/
+
+# IDE and temporary files
+*.tmp
+*.temp
