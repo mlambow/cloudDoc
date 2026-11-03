@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb4d9695-f739-4b20-b091-c5ead2674107" name="Changes" comment="Project setup" />
+    <list default="true" id="eb4d9695-f739-4b20-b091-c5ead2674107" name="Changes" comment="Project setup">
+      <change beforePath="$PROJECT_DIR$/../api/api/Controllers/DocumentsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../api/api/Controllers/DocumentsController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../api/api/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,18 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mlambow"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mlambow&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mlambow/cloudDoc.git",
-    "accountId": "7322b521-84bc-487b-a7bb-97ab1303bbaa"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mlambow/cloudDoc.git&quot;,
+    &quot;accountId&quot;: &quot;7322b521-84bc-487b-a7bb-97ab1303bbaa&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -41,6 +44,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
@@ -87,7 +91,8 @@
       <updated>1790310690687</updated>
       <workItem from="1790310692077" duration="12403000" />
       <workItem from="1790413648666" duration="5830000" />
-      <workItem from="1791624854005" duration="23806000" />
+      <workItem from="1791624854005" duration="30101000" />
+      <workItem from="1793555320240" duration="593000" />
     </task>
     <task id="LOCAL-00001" summary="Project setup">
       <option name="closed" value="true" />

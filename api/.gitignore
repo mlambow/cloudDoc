@@ -46,3 +46,13 @@ TestResults/
 # IDE and temporary files
 *.tmp
 *.temp
+
+# .NET generated files
+**/bin/
+**/obj/
+
+# Local uploaded documents
+**/App_Data/
+
+# Local environment settings
+**/appsettings.Development.json
